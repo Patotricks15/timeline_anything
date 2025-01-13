@@ -85,7 +85,6 @@ Fork the repository on GitHub.
 Clone your forked repository:
 
 ```bash
-Copy code
 git clone https://github.com/your-username/timeline_anything.git
 ```
 Create a new branch for your feature or fix:
@@ -107,7 +106,6 @@ Test your changes locally.
 Commit and push your changes:
 
 ```bash
-Copy code
 git add .
 git commit -m "Add feature: description"
 git push origin feature-name
